@@ -1,1 +1,1 @@
-binary_classifer
+Simple classifier

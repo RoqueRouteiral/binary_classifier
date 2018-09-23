@@ -1,0 +1,6 @@
+
+fcbdata/
+
+__pycache__/
+
+model\.ckpt
